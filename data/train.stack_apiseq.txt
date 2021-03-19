@@ -1,0 +1,116 @@
+cmd stdout=subprocess.PIPE stderr=subprocess.PIPE shell=True 
+args shell=True args stdout=subprocess.PIPE shell=True response.xml w stdout
+conn stdout=subprocess.PIPE stderr=subprocess.PIPE stdin=subprocess.DEVNULL shell=True stdout + stderr
+ls -z shell=True stdout=subprocess.PIPE stderr=subprocess.PIPE 
+[dir]stdout=subprocess.PIPE stderr=subprocess.PIPE shell=True 
+cmd stdout=subprocess.PIPE stderr=subprocess.PIPE shell=True 
+cmd stdout=subprocess.PIPE stderr=subprocess.PIPE shell=True 
+cmd stdout=subprocess.PIPE stderr=subprocess.PIPE shell=True 
+cmd stdout=subprocess.PIPE stderr=subprocess.PIPE shell=True 
+ls -lshell=Truestdout=subprocess.PIPE
+grep hello tmp shell=True [grep hello tmp]
+ls shell=True stdout=PIPE 
+java -jar xyz.jar shell=True stdout=openoutfile.txt wt
+shlex.splitstr1 str1 shell=True
+cmd shell=True stdout=subprocess.PIPE
+[bitcoin getinfo] stdout=subprocess.PIPE bitcoin getinfo stdout=subprocess.PIPE shell=True
+cmd1 stderr=out shell=True preexec_fn=os.setsid
+echo to stdout shell=True stdout=subprocess.PIPE 
+[filePath arguments] stdout=subprocess.PIPE utf-8
+hdfs dfs -copyFromLocal concsessions.csv /user/username/spark_exports/ shell=True
+subprocess.check_output[df -g grep -w /] shell=True 
+[ps aux grep rssrun] capture_output=True shell=True result.stdout
+ps aux grep python 
+cmd stdout=subprocess.PIPE stderr=subprocess.PIPE shell=True 
+conn stdout=subprocess.PIPE stderr=subprocess.PIPE stdin=subprocess.DEVNULL shell=True stdout + stderr
+[dir]stdout=subprocess.PIPE stderr=subprocess.PIPE shell=True 
+cmd shell=Truestdout=subprocess.PIPE stderr=subprocess.PIPE 
+command command shell=True stdout=subprocess.PIPE stderr=subprocess.STDOUT 
+ svnversion stdout=subprocess.PIPE stderr=subprocess.PIPE 
+python GetAlexRanking.py + row stdout=subprocess.PIPEstderr=subprocess.PIPEshell=True 
+... stdout=subprocess.PIPE stderr=subprocess.PIPE 
+[program file] [program file] stdout=subprocess.PIPE stderr=subprocess.PIPE 
+command stdin=subprocess.PIPEstdout=subprocess.PIPEstderr=subprocess.PIPE bonnnpn1nnnw
+conn stdout=subprocess.PIPE stderr=subprocess.PIPE stdin=subprocess.DEVNULL shell=True stdout + stderr
+[ls -a] stdout=subprocess.PIPE stderr=subprocess.PIPE out
+/bin/bash -i.split
+mycmd stdin = subprocess.PIPE stdout = subprocess.PIPEstderr = subprocess.PIPE
+pianobar stdin=subprocess.PIPE stdout=subprocess.PIPE stderr=subprocess.PIPE
+bc stdin=subprocess.PIPE stdout=subprocess.PIPE stderr=subprocess.PIPE 1+1n
+[muscle] stdin=subprocess.PIPE stdout=subprocess.PIPE stderr=subprocess.PIPE temp_align
+[ls -a] stdout=subprocess.PIPE stderr=subprocess.PIPE out
+cmd shell=True stdout=subprocess.PIPE stderr=subprocess.PIPE 
+command command shell=True stdout=subprocess.PIPE stderr=subprocess.STDOUT 
+ls -z shell=True stdout=subprocess.PIPE stderr=subprocess.PIPE 
+[program file] [program file] stdout=subprocess.PIPE stderr=subprocess.PIPE 
+command stdin=subprocess.PIPEstdout=subprocess.PIPEstderr=subprocess.PIPE bonnnpn1nnnw
+[muscle] stdin=subprocess.PIPE stdout=subprocess.PIPE stderr=subprocess.PIPE temp_align
+command stdin=subprocess.PIPEstdout=subprocess.PIPEstderr=subprocess.PIPE bonnnpn1nnnw
+*args listargs 
+bc stdin=subprocess.PIPE stdout=subprocess.PIPE stderr=subprocess.PIPE 1+1n
+cmd stdout=subprocess.PIPE stderr=subprocess.PIPE shell=True 
+*args listargs 
+command stdin=subprocess.PIPEstdout=subprocess.PIPEstderr=subprocess.PIPE bonnnpn1nnnw
+[a.out] stdin=subprocess.PIPE 1 n 3 n 2 n 5 n 2...n [a.out] stdin=filea.inp
+[hg verify -R natrium-master -q] stdout=PIPE stdin=PIPE 
+[echo] + args stdout=subprocess.PIPE stderr=subprocess.PIPE output
+...stderr = subprocess.PIPE 
+*args listargs 
+[sort fname] stdout=subprocess.PIPE fname w stdout
+command stdout=subprocess.PIPE 
+[cts_tradefed_script +  + serialno] shell=True stdout=subprocess.PIPE stderr=subprocess.STDOUT
+command commandstdout=subprocess.PIPE shell=True  echo a echo b
+ [pythonpath + /pythonChild.py] preexec_fn=os.setsid stdout=subprocess.PIPE stdin=subprocess.PIPE proc.pid 9 
+shell command stdin=subprocess.PIPE my data
+os.devnull w devnull.close args stdout=devnull
+cmd shell = True stdout=out1
+self self.command.split self 
+[cmd /c dir c:Users] stdout=subprocess.PIPE
+bc stdin=subprocess.PIPE stdout=subprocess.PIPE stderr=subprocess.PIPE 1+1n
+subprocess.Popen mock_popen myapp.mymodule.Popen mock_popen
+   [scanx --udp host] stdin=subprocess.PIPE stdout=subprocess.PIPE stderr=subprocess.PIPE 
+  0.5
+[arg0 arg1 ...] encoding=utf-8
+
+python Desktop/gold/gold.py python Desktop/gold/gold.py python Desktop/gold/gold.py shell = True
+const char *filepath const char *data filepath ab data fp fp
+const char *filepath const char *data filepath ab data fp fp
+dictionary path ./ dictionary path ./ 
+fullnames fullname fullnameentry-&gtd_name fullname r
+nothing r fopen failed
+ SOURCE_CODE r in_fp == NULL Failed to open the source
+input r Cant open filen 1
+%s filepath1 filepath1 a
+cmdBuf ping -c5 -W1 %s &gt&gt %s dst_addr FILE_NAME FILE_NAME w fpping -c5 -W1 %sn dst_addr fp cmdBuf
+path r path r+ const char* path path r+ f
+const char *fname fname rb !fp ch = fgetcfp fp
+%s filepath1 filepath1 a
+const char *fname fname rb !fp ch = fgetcfp fp
+void file.txt r+ fp 10 SEEK_SET ABCD 1 4 fp fp
+char const *path char const *mode path mode std::strerrorerrno
+FILE* checkVar checkVar==NULL char* _name char* storeArray _nameREAD_ONLY_MODE fp
+/proc/cpuinfo grep model name r grep model name/proc/cpuinfo r fp
+binary rb fp==NULL problem opening the file EXIT_FAILURE
+fileName fileMode filenofp fp
+  . main: %s n strerrorerrno 
+filename r filename rb 
+filename sizeoffilename filename w f
+int argc char *argv[] Usage: %s &ltfilename&gtn argv[0] argv[1] r
+/dev/urandom r 2
+file r file r
+filename r filename r
+fooo.txtw tempString 1 256 fd tempString1256 fd
+filename r filename rb
+fp fp ... FILE_NAME w+ fp NULL _IOLBF BUFSIZ
+int FILE* filename wb+ buffer 4 1 fp FILE* format ....
+filename r line 100 file  
+argc argv w:: optarg
+argc argv w:: optarg
+char **args args[1]
+ argv[1] argv[2] 
+argc != 2 argv[1]
+args[2] args[2]
+char **args args[1]
+argc != 2 argv[1]
+argv[i] argv [1] s argv[i]
+i+1 &lt argc argv[i+1] %d numbers[i]

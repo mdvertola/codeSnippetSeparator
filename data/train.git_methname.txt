@@ -1,0 +1,116 @@
+execute logfile.write .format subprocess.Popen process.communicate
+execute logfile.write .format subprocess.Popen process.communicate
+execute logfile.write .format subprocess.Popen process.communicate
+print subprocess.Popen p.communicate os.listdir self.assertIsNone re.search
+platform.uname .join .strip subprocess.Popen p.communicate compile_time.strip .decode
+platform.uname .join .strip subprocess.Popen p.communicate compile_time.strip .decode
+platform.uname .join .strip subprocess.Popen p.communicate compile_time.strip .decode
+platform.uname .join .strip subprocess.Popen p.communicate compile_time.strip .decode
+platform.uname .join .strip subprocess.Popen p.communicate compile_time.strip .decode
+execute logfile.write .format subprocess.Popen process.communicate
+execute logfile.write .format subprocess.Popen process.communicate
+execute logfile.write .format subprocess.Popen process.communicate
+execute logfile.write .format subprocess.Popen process.communicate
+execute logfile.write .format subprocess.Popen process.communicate
+execute logfile.write .format subprocess.Popen process.communicate
+execute logfile.write .format subprocess.Popen process.communicate
+execute logfile.write .format subprocess.Popen process.communicate
+execute logfile.write .format subprocess.Popen process.communicate
+execute logfile.write .format subprocess.Popen process.communicate
+execute logfile.write .format subprocess.Popen process.communicate
+execute logfile.write .format subprocess.Popen process.communicate
+execute logfile.write .format subprocess.Popen process.communicate
+_is_celery_running subprocess.Popen subprocess.check_output
+execute logfile.write .format subprocess.Popen process.communicate logfile.write
+execute logfile.write .format subprocess.Popen process.communicate logfile.write
+execute logfile.write .format subprocess.Popen process.communicate
+execute logfile.write .format subprocess.Popen process.communicate
+execute logfile.write .format subprocess.Popen process.communicate
+execute logfile.write .format subprocess.Popen process.communicate
+execute logfile.write .format subprocess.Popen process.communicate
+execute logfile.write .format subprocess.Popen process.communicate
+execute logfile.write .format subprocess.Popen process.communicate
+execute logfile.write .format subprocess.Popen process.communicate
+execute logfile.write .format subprocess.Popen process.communicate
+execute logfile.write .format subprocess.Popen process.communicate
+map subprocess.Popen isinstance
+map subprocess.Popen isinstance
+map subprocess.Popen isinstance
+AnsibleError list_jails subprocess.Popen p.communicate
+AnsibleError list_jails subprocess.Popen p.communicate
+AnsibleError list_jails subprocess.Popen p.communicate
+print subprocess.Popen p.communicate os.listdir self.assertIsNone re.search
+print subprocess.Popen p.communicate os.listdir self.assertIsNone re.search
+print subprocess.Popen p.communicate os.listdir self.assertIsNone re.search
+p.communicate stdout.split get_jail_path subprocess.Popen to_bytes p.communicate
+p.communicate stdout.split get_jail_path subprocess.Popen to_bytes p.communicate
+p.communicate stdout.split get_jail_path subprocess.Popen to_bytes p.communicate
+execute logfile.write .format subprocess.Popen process.communicate logfile.write
+execute logfile.write .format subprocess.Popen process.communicate
+execute logfile.write .format subprocess.Popen process.communicate
+execute logfile.write .format subprocess.Popen process.communicate
+run_cmd shlex.split subprocess.Popen
+AnsibleError list_jails subprocess.Popen p.communicate
+print subprocess.Popen p.communicate os.listdir self.assertIsNone re.search
+print subprocess.Popen p.communicate os.listdir self.assertIsNone re.search
+print subprocess.Popen p.communicate os.listdir self.assertIsNone re.search
+print subprocess.Popen p.communicate os.listdir self.assertIsNone re.search
+print subprocess.Popen p.communicate os.listdir self.assertIsNone re.search
+print subprocess.Popen p.communicate os.listdir self.assertIsNone re.search
+print subprocess.Popen p.communicate os.listdir self.assertIsNone re.search
+print subprocess.Popen p.communicate os.listdir self.assertIsNone re.search
+print subprocess.Popen p.communicate os.listdir self.assertIsNone re.search
+print subprocess.Popen p.communicate os.listdir self.assertIsNone re.search
+print subprocess.Popen p.communicate os.listdir self.assertIsNone re.search
+p.communicate stdout.split get_jail_path subprocess.Popen to_bytes p.communicate
+p.communicate stdout.split get_jail_path subprocess.Popen to_bytes p.communicate
+p.communicate stdout.split get_jail_path subprocess.Popen to_bytes p.communicate
+p.communicate stdout.split get_jail_path subprocess.Popen to_bytes p.communicate
+p.communicate stdout.split get_jail_path subprocess.Popen to_bytes p.communicate
+p.communicate stdout.split get_jail_path subprocess.Popen to_bytes p.communicate
+p.communicate stdout.split get_jail_path subprocess.Popen to_bytes p.communicate
+p.communicate stdout.split get_jail_path subprocess.Popen to_bytes p.communicate
+p.communicate stdout.split get_jail_path subprocess.Popen to_bytes p.communicate
+p.communicate stdout.split get_jail_path subprocess.Popen to_bytes p.communicate
+p.communicate stdout.split get_jail_path subprocess.Popen to_bytes p.communicate
+writeToTmp snprintf sizeof fopen fputs fclose
+writeToTmp strcpy strcat fopen if fputs fclose
+writeToTmp strcpy strcat fopen if fputs fclose
+writeToTmp strcpy strcat fopen if fputs fclose
+intgetfilelist fopen fprintf
+return fopen printf return
+return fopen printf return
+writeToTmp snprintf sizeof fopen fputs fclose
+writeToTmp snprintf sizeof fopen fputs fclose
+writeToTmp snprintf sizeof fopen fputs fclose
+writeToTmp snprintf sizeof fopen fputs fclose
+writeToTmp strcpy strcat fopen if fputs fclose
+writeToTmp strcpy strcat fopen if fputs fclose
+writeToTmp strcpy strcat fopen if fputs fclose
+writeToTmp strcpy strcat fopen if fputs fclose
+writeToTmp strcpy strcat fopen if fputs fclose
+writeToTmp strcpy strcat fopen if fputs fclose
+writeToTmp strcpy strcat fopen if fputs fclose
+writeToTmp strcpy strcat fopen if fputs fclose
+intgetfilelist fopen fprintf
+intgetfilelist fopen fprintf
+intgetfilelist fopen fprintf
+intgetfilelist fopen fprintf
+return fopen printf return
+return fopen printf return
+return fopen printf return
+return fopen printf return
+return fopen printf return
+return fopen printf return
+return fopen printf return
+return fopen printf return
+getopt switch atoi atoi
+getopt switch atoi
+getopt switch atoi atoi
+getopt switch atoi atoi
+getopt switch atoi atoi
+getopt switch atoi atoi
+getopt switch atoi
+getopt switch atoi
+getopt switch atoi
+getopt switch atoi

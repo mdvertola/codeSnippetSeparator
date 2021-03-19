@@ -1,0 +1,116 @@
+command logfile Executing .formatcommand command stdin=subprocess.PIPE stdout=subprocess.PIPE stderr=subprocess.PIPE shell=True 
+command logfile Executing .formatcommand command stdin=subprocess.PIPE stdout=subprocess.PIPE stderr=subprocess.PIPE shell=True 
+command logfile Executing .formatcommand command stdin=subprocess.PIPE stdout=subprocess.PIPE stderr=subprocess.PIPE shell=True 
+command command shell=True stdout=subprocess.PIPE stderr=subprocess.PIPE path re.search[:></*] f
+ unameinfo date -u +%Y-%m-%dT%H:%M:%SZ stdout=subprocess.PIPE stderr=subprocess.PIPE shell=True  ascii
+ unameinfo date -u +%Y-%m-%dT%H:%M:%SZ stdout=subprocess.PIPE stderr=subprocess.PIPE shell=True  ascii
+ unameinfo date -u +%Y-%m-%dT%H:%M:%SZ stdout=subprocess.PIPE stderr=subprocess.PIPE shell=True  ascii
+ unameinfo date -u +%Y-%m-%dT%H:%M:%SZ stdout=subprocess.PIPE stderr=subprocess.PIPE shell=True  ascii
+ unameinfo date -u +%Y-%m-%dT%H:%M:%SZ stdout=subprocess.PIPE stderr=subprocess.PIPE shell=True  ascii
+command logfile Executing .formatcommand command stdin=subprocess.PIPE stdout=subprocess.PIPE stderr=subprocess.PIPE shell=True 
+command logfile Executing .formatcommand command stdin=subprocess.PIPE stdout=subprocess.PIPE stderr=subprocess.PIPE shell=True 
+command logfile Executing .formatcommand command stdin=subprocess.PIPE stdout=subprocess.PIPE stderr=subprocess.PIPE shell=True 
+command logfile Executing .formatcommand command stdin=subprocess.PIPE stdout=subprocess.PIPE stderr=subprocess.PIPE shell=True 
+command logfile Executing .formatcommand command stdin=subprocess.PIPE stdout=subprocess.PIPE stderr=subprocess.PIPE shell=True 
+command logfile Executing .formatcommand command stdin=subprocess.PIPE stdout=subprocess.PIPE stderr=subprocess.PIPE shell=True 
+command logfile Executing .formatcommand command stdin=subprocess.PIPE stdout=subprocess.PIPE stderr=subprocess.PIPE shell=True 
+command logfile Executing .formatcommand command stdin=subprocess.PIPE stdout=subprocess.PIPE stderr=subprocess.PIPE shell=True 
+command logfile Executing .formatcommand command stdin=subprocess.PIPE stdout=subprocess.PIPE stderr=subprocess.PIPE shell=True 
+command logfile Executing .formatcommand command stdin=subprocess.PIPE stdout=subprocess.PIPE stderr=subprocess.PIPE shell=True 
+command logfile Executing .formatcommand command stdin=subprocess.PIPE stdout=subprocess.PIPE stderr=subprocess.PIPE shell=True 
+command logfile Executing .formatcommand command stdin=subprocess.PIPE stdout=subprocess.PIPE stderr=subprocess.PIPE shell=True 
+command logfile Executing .formatcommand command stdin=subprocess.PIPE stdout=subprocess.PIPE stderr=subprocess.PIPE shell=True 
+ [ps aux] stdout=subprocess.PIPE [grep [c]elery worker] stdin=ps.stdout
+command logfile Executing .formatcommand command stdin=subprocess.PIPE stdout=subprocess.PIPE stderr=subprocess.PIPE shell=True stderr + os.linesep
+command logfile Executing .formatcommand command stdin=subprocess.PIPE stdout=subprocess.PIPE stderr=subprocess.PIPE shell=True stderr + os.linesep
+command logfile Executing .formatcommand command stdin=subprocess.PIPE stdout=subprocess.PIPE stderr=subprocess.PIPE shell=True 
+command logfile Executing .formatcommand command stdin=subprocess.PIPE stdout=subprocess.PIPE stderr=subprocess.PIPE shell=True 
+command logfile Executing .formatcommand command stdin=subprocess.PIPE stdout=subprocess.PIPE stderr=subprocess.PIPE shell=True 
+command logfile Executing .formatcommand command stdin=subprocess.PIPE stdout=subprocess.PIPE stderr=subprocess.PIPE shell=True 
+command logfile Executing .formatcommand command stdin=subprocess.PIPE stdout=subprocess.PIPE stderr=subprocess.PIPE shell=True 
+command logfile Executing .formatcommand command stdin=subprocess.PIPE stdout=subprocess.PIPE stderr=subprocess.PIPE shell=True 
+command logfile Executing .formatcommand command stdin=subprocess.PIPE stdout=subprocess.PIPE stderr=subprocess.PIPE shell=True 
+command logfile Executing .formatcommand command stdin=subprocess.PIPE stdout=subprocess.PIPE stderr=subprocess.PIPE shell=True 
+command logfile Executing .formatcommand command stdin=subprocess.PIPE stdout=subprocess.PIPE stderr=subprocess.PIPE shell=True 
+command logfile Executing .formatcommand command stdin=subprocess.PIPE stdout=subprocess.PIPE stderr=subprocess.PIPE shell=True 
+to_bytes cmd cmdshell=isinstancecmd text_type binary_type
+to_bytes cmd cmdshell=isinstancecmd text_type binary_type
+to_bytes cmd cmdshell=isinstancecmd text_type binary_type
+%s command not found in PATH % executable self [self.jls_cmd -q name] stdin=subprocess.PIPE stdout=subprocess.PIPE stderr=subprocess.PIPE 
+%s command not found in PATH % executable self [self.jls_cmd -q name] stdin=subprocess.PIPE stdout=subprocess.PIPE stderr=subprocess.PIPE 
+%s command not found in PATH % executable self [self.jls_cmd -q name] stdin=subprocess.PIPE stdout=subprocess.PIPE stderr=subprocess.PIPE
+command command shell=True stdout=subprocess.PIPE stderr=subprocess.PIPE path re.search[:></*] f
+command command shell=True stdout=subprocess.PIPE stderr=subprocess.PIPE path re.search[:></*] f
+command command shell=True stdout=subprocess.PIPE stderr=subprocess.PIPE path re.search[:></*] f
+ self [self.jls_cmd -j to_bytesself.jail 
+ self [self.jls_cmd -j to_bytesself.jail 
+ self [self.jls_cmd -j to_bytesself.jail 
+command logfile Executing .formatcommand command stdin=subprocess.PIPE stdout=subprocess.PIPE stderr=subprocess.PIPE shell=True stderr + os.linesep
+command logfile Executing .formatcommand command stdin=subprocess.PIPE stdout=subprocess.PIPE stderr=subprocess.PIPE shell=True 
+command logfile Executing .formatcommand command stdin=subprocess.PIPE stdout=subprocess.PIPE stderr=subprocess.PIPE shell=True 
+command logfile Executing .formatcommand command stdin=subprocess.PIPE stdout=subprocess.PIPE stderr=subprocess.PIPE shell=True 
+cmd live=False readsize=10 cmd cmdargs stdout=subprocess.PIPE stderr=subprocess.PIPE
+%s command not found in PATH % executable self [self.jls_cmd -q name] stdin=subprocess.PIPE stdout=subprocess.PIPE stderr=subprocess.PIPE 
+command command shell=True stdout=subprocess.PIPE stderr=subprocess.PIPE path re.search[:></*] f
+command command shell=True stdout=subprocess.PIPE stderr=subprocess.PIPE path re.search[:></*] f
+command command shell=True stdout=subprocess.PIPE stderr=subprocess.PIPE path re.search[:></*] f
+command command shell=True stdout=subprocess.PIPE stderr=subprocess.PIPE path re.search[:></*] f
+command command shell=True stdout=subprocess.PIPE stderr=subprocess.PIPE path re.search[:></*] f
+command command shell=True stdout=subprocess.PIPE stderr=subprocess.PIPE path re.search[:></*] f
+command command shell=True stdout=subprocess.PIPE stderr=subprocess.PIPE path re.search[:></*] f
+command command shell=True stdout=subprocess.PIPE stderr=subprocess.PIPE path re.search[:></*] f
+command command shell=True stdout=subprocess.PIPE stderr=subprocess.PIPE path re.search[:></*] f
+command command shell=True stdout=subprocess.PIPE stderr=subprocess.PIPE path re.search[:></*] f
+command command shell=True stdout=subprocess.PIPE stderr=subprocess.PIPE path re.search[:></*] f
+ self [self.jls_cmd -j to_bytesself.jail 
+ self [self.jls_cmd -j to_bytesself.jail 
+ self [self.jls_cmd -j to_bytesself.jail 
+ self [self.jls_cmd -j to_bytesself.jail 
+ self [self.jls_cmd -j to_bytesself.jail 
+ self [self.jls_cmd -j to_bytesself.jail 
+ self [self.jls_cmd -j to_bytesself.jail 
+ self [self.jls_cmd -j to_bytesself.jail 
+ self [self.jls_cmd -j to_bytesself.jail 
+ self [self.jls_cmd -j to_bytesself.jail 
+ self [self.jls_cmd -j to_bytesself.jail 
+ char *fileName char *text  buf sizeof buf  buf a  text fp  fp 
+char *fileName char *text buf /tmp/ buf fileName buf a fp==NULL text fp fp
+char *fileName char *text buf /tmp/ buf fileName buf a fp==NULL text fp fp
+char *fileName char *text buf /tmp/ buf fileName buf a fp==NULL text fp fp
+rbudpReceiver_t *rbudpReceiver char * fileList int packetSize fileList r stderrError open file!n
+-1 fileName w Unable to open output file -1
+-1 fileName w Unable to open output file -1
+ char *fileName char *text  buf sizeof buf  buf a  text fp  fp 
+ char *fileName char *text  buf sizeof buf  buf a  text fp  fp 
+ char *fileName char *text  buf sizeof buf  buf a  text fp  fp 
+ char *fileName char *text  buf sizeof buf  buf a  text fp  fp 
+char *fileName char *text buf /tmp/ buf fileName buf a fp==NULL text fp fp
+char *fileName char *text buf /tmp/ buf fileName buf a fp==NULL text fp fp
+char *fileName char *text buf /tmp/ buf fileName buf a fp==NULL text fp fp
+char *fileName char *text buf /tmp/ buf fileName buf a fp==NULL text fp fp
+char *fileName char *text buf /tmp/ buf fileName buf a fp==NULL text fp fp
+char *fileName char *text buf /tmp/ buf fileName buf a fp==NULL text fp fp
+char *fileName char *text buf /tmp/ buf fileName buf a fp==NULL text fp fp
+char *fileName char *text buf /tmp/ buf fileName buf a fp==NULL text fp fp
+rbudpReceiver_t *rbudpReceiver char * fileList int packetSize fileList r stderrError open file!n
+rbudpReceiver_t *rbudpReceiver char * fileList int packetSize fileList r stderrError open file!n
+rbudpReceiver_t *rbudpReceiver char * fileList int packetSize fileList r stderrError open file!n
+rbudpReceiver_t *rbudpReceiver char * fileList int packetSize fileList r stderrError open file!n
+-1 fileName w Unable to open output file -1
+-1 fileName w Unable to open output file -1
+-1 fileName w Unable to open output file -1
+-1 fileName w Unable to open output file -1
+-1 fileName w Unable to open output file -1
+-1 fileName w Unable to open output file -1
+-1 fileName w Unable to open output file -1
+-1 fileName w Unable to open output file -1
+argc argv ht:n:r:H:M:c:s: opt optarg optarg
+argc argv cChv: opt optarg
+argc argv ht:n:r:H:M:c:s: opt optarg optarg
+argc argv ht:n:r:H:M:c:s: opt optarg optarg
+argc argv ht:n:r:H:M:c:s: opt optarg optarg
+argc argv ht:n:r:H:M:c:s: opt optarg optarg
+argc argv cChv: opt optarg
+argc argv cChv: opt optarg
+argc argv cChv: opt optarg
+argc argv cChv: opt optarg

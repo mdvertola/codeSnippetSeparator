@@ -1,0 +1,116 @@
+subprocess.Popen proc.communicate
+subprocess.Popen subprocess.Popen p.communicate file fp.write
+subprocess.Popen proc.communicate print
+subprocess.Popen proc.communicate
+subprocess.Popen p.communicate
+subprocess.Popen proc.communicate
+subprocess.Popen proc.communicate
+subprocess.Popen proc.communicate
+subprocess.Popen proc.communicate
+subprocess.Popen
+subprocess.check_output subprocess.check_output
+Popen proc.wait proc.communicate
+subprocess.call open
+subprocess.check_output shlex.split subprocess.check_output
+subprocess.Popen
+subprocess.Popen subprocess.Popen
+subprocess.Popen
+subprocess.Popen proc.communicate
+subprocess.run output.stdout.decode
+subprocess.call
+subprocessprint subprocess.check_output .split .split
+subprocess.run print
+subprocess.Popen subprocess.check_output ps.wait
+subprocess.Popen proc.communicate
+subprocess.Popen proc.communicate print
+subprocess.Popen p.communicate
+subprocess.Popen process.communicate
+run_command subprocess.Popen p.communicate
+svnversion subprocess.Popen p.communicate
+subprocess.Popen cmd.communicate
+subprocess.Popen proc.communicate
+subprocess.call subprocess.Popen p.communicate
+subprocess.Popen p.communicate
+subprocess.Popen proc.communicate print
+subprocess.Popen process.communicate print
+subprocess.Popen .split
+subprocess.Popen
+subprocess.Popen
+subprocess.Popen p.communicate
+subprocess.Popen .communicate
+subprocess.Popen process.communicate print
+subprocess.Popen communicate
+run_command subprocess.Popen p.communicate
+subprocess.Popen proc.communicate
+subprocess.call subprocess.Popen p.communicate
+subprocess.Popen p.communicate
+subprocess.Popen .communicate
+subprocess.Popen p.communicate
+wrapper Popen list process.communicate
+subprocess.Popen p.communicate
+subprocess.Popen proc.communicate
+wrapper Popen list process.communicate
+subprocess.Popen p.communicate
+subprocess.Popen p.communicate subprocess.call file
+Popen p.communicate
+subprocess.Popen proc.communicate print
+subprocess.Popen p.communicate p.stderr.read
+wrapper Popen list process.communicate
+subprocess.Popen proc.communicate open f.write
+subprocess.Popen subprocess.Popen
+subprocess.Popen
+subprocess_cmd subprocess.Popen process.communicate .strip proc_stdoutsubprocess_cmd
+subprocess.Popen os.killpg
+subprocess.Popen proc.stdin.write
+open atexit.register subprocess.Popen
+subprocess.Popen
+run Popen self.command.split stop self.process.terminate
+subprocess.Popen
+subprocess.Popen p.communicate
+patch patch
+subprocess.call subprocess.call wait wait communicate subprocess.Popen p.communicate
+subprocess.call subprocess.Popen subprocess.Popen time.sleep
+subprocess.check_output
+subprocess.Popen
+subprocess.Popen subprocess.Popen subprocess.Popen
+adx_store_data fopen fputs fclose
+adx_store_data fopen fputs fclose
+strlen strcat strlen strcpy fopen perror
+strcpy strcat strcat fopen
+fopen perror
+fopen fopen if perror
+fopen printf exit
+scanf fopen
+sprintf fopen fprintf fclose doSystem
+fopen fopen isDirectory fopen fclose
+filesize fopen if while fgetc fclose
+scanf fopen
+filesize fopen if while fgetc fclose
+main fopen fseek fwrite fclose
+safe_fopen fopen runtime_error strerror
+nullCheck if readFile fopen nullCheck
+fopen popen inpclose
+fopen if perror exit
+fopen flock fileno ...fclose
+perror fopen fopen fopen printf strerror perror
+fopen fopen fread ftell
+snprintf sizeof fopen fclose
+main printf fopen
+fopen creat open
+fopen fopen
+fopen fopen
+fopen fwrite fread
+fopen fopen
+fflush fprintf fopen setvbuf
+fputc fopen fwrite fprintf
+fopen fgets free fgets fopen
+getopt atoi
+getopt atoi
+c atoi
+atoi atoi atoi atoi
+if atoi
+atoi atoi
+c atoi
+if atoi
+atoi atoi argument atoi
+while atoi printf
