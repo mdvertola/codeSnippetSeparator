@@ -1,0 +1,116 @@
+if cmd: proc = subprocess.Popen(cmd stdout=subprocess.PIPE stderr=subprocess.PIPE shell=True) result = proc.communicate()[0] print result
+&gt; p = subprocess.Popen(args shell=True)p = subprocess.Popen(args stdout=subprocess.PIPE shell=True) (stdout stderr) = p.communicate() with file('response.xml' 'w') as fp: fp.write(stdout)
+proc = subprocess.Popen(conn stdout=subprocess.PIPE stderr=subprocess.PIPE stdin=subprocess.DEVNULL shell=True) stdout stderr = proc.communicate() print(stdout + stderr)
+"proc = subprocess.Popen(""ls -z"" shell=True stdout=subprocess.PIPE stderr=subprocess.PIPE) out err = proc.communicate() assert proc.returncode == 0 'i am sad' print out print err"
+{ subprocess import subprocess p = subprocess.Popen(['dir']stdout=subprocess.PIPE stderr=subprocess.PIPE shell=True) stdoutstderr = p.communicate()shell=True 
+if cmd: proc = subprocess.Popen(cmd stdout=subprocess.PIPE stderr=subprocess.PIPE shell=True) result = proc.communicate()[0] print result
+if cmd: proc = subprocess.Popen(cmd stdout=subprocess.PIPE stderr=subprocess.PIPE shell=True) result = proc.communicate()[0] print result
+if cmd: proc = subprocess.Popen(cmd stdout=subprocess.PIPE stderr=subprocess.PIPE shell=True) result = proc.communicate()[0] print result
+if cmd: proc = subprocess.Popen(cmd stdout=subprocess.PIPE stderr=subprocess.PIPE shell=True) result = proc.communicate()[0] print result
+"shell=True p = subprocess.Popen(""ls -l""shell=Truestdout=subprocess.PIPE)shell=True "
+"grepOut = subprocess.check_output(""grep 'hello' tmp"" shell=True)grepOut = subprocess.check_output(['grep' ""'hello'"" 'tmp'])"
+from subprocess import Popen PIPE proc = Popen('ls' shell=True stdout=PIPE) proc.wait() proc.communicate()
+"import subprocess subprocess.call(""java -jar xyz.jar"" shell=True stdout=open('outfile.txt' 'wt') stderr=subprocess.STDOUT)shell=True "
+"shlex import shlexstr1 = ""./program.sh %lf %lf"" % (x0 x1) sim_flux230 = subprocess.check_output(shlex.split(str1))shell=True subprocess.check_output(str1 shell=True) shell=True "
+"Popen cmd = [""php"" ""./sync.php""] proc = subprocess.Popen(cmd shell=True stdout=subprocess.PIPE)args cwd "
+process = subprocess.Popen(['bitcoin' 'getinfo'] stdout=subprocess.PIPE)shell True process = subprocess.Popen('bitcoin getinfo' stdout=subprocess.PIPE shell=True)
+proc = subprocess.Popen(cmd1 stderr=out shell=True preexec_fn=os.setsid)
+"os.system subprocess.Popen import subprocess proc=subprocess.Popen('echo ""to stdout""' shell=True stdout=subprocess.PIPE ) output=proc.communicate()[0] print output"
+subprocess.run Popen output = subprocess.run([filePath arguments] stdout=subprocess.PIPE) output.stdout.decode('utf-8')shell=True 
+"shell=True subprocess.call subprocess.call(""hdfs dfs -copyFromLocal concsessions.csv /user/username/spark_exports/"" shell=True)"
+"subprocess.check_output shell=True import subprocessprint(subprocess.check_output([""df -g | grep -w /""] shell=True).split()[2]).split() [2] "
+ps result = subprocess.run(['ps aux | grep rssrun'] capture_output=True shell=True) print(result.stdout)
+ps = subprocess.Popen(('ps' 'aux') stdout=subprocess.PIPE) output = subprocess.check_output(('grep' 'python') stdin=ps.stdout) ps.wait()print output
+if cmd: proc = subprocess.Popen(cmd stdout=subprocess.PIPE stderr=subprocess.PIPE shell=True) result = proc.communicate()[0] print result
+proc = subprocess.Popen(conn stdout=subprocess.PIPE stderr=subprocess.PIPE stdin=subprocess.DEVNULL shell=True) stdout stderr = proc.communicate() print(stdout + stderr)
+{ subprocess import subprocess p = subprocess.Popen(['dir']stdout=subprocess.PIPE stderr=subprocess.PIPE shell=True) stdoutstderr = p.communicate()shell=True 
+shell=True process = subprocess.Popen(cmd shell=Truestdout=subprocess.PIPE stderr=subprocess.PIPE)# wait for the process to terminate out err = process.communicate() errcode = process.returncode
+def run_command(command): p = subprocess.Popen(command shell=True stdout=subprocess.PIPE stderr=subprocess.STDOUT) return p.communicate()
+"svnversion svnversion import subprocessdef svnversion(): p = subprocess.Popen(""svnversion"" stdout=subprocess.PIPE stderr=subprocess.PIPE) (stdout stderr) = p.communicate() return stdout"
+"stdout=subprocess.PIPE cmd = subprocess.Popen(""python GetAlexRanking.py "" + row stdout=subprocess.PIPEstderr=subprocess.PIPEshell=True) (output err) = cmd.communicate()"
+stderr stderr=subprocess.STDOUT proc = subprocess.Popen(... stdout=subprocess.PIPE stderr=subprocess.PIPE) stdout stderr = proc.communicate()check_output 
+C:\&gt; subprocess.call([program file])p = subprocess.Popen([program file] stdout=subprocess.PIPE stderr=subprocess.PIPE) stdout stderr = p.communicate() print stdout
+"fdisk command = ['sudo' 'fdisk' '/dev/xvdm'] p = subprocess.Popen(command stdin=subprocess.PIPEstdout=subprocess.PIPEstderr=subprocess.PIPE) output err = p.communicate(b""o\nn\np\n1\n\n\nw"")"
+proc = subprocess.Popen(conn stdout=subprocess.PIPE stderr=subprocess.PIPE stdin=subprocess.DEVNULL shell=True) stdout stderr = proc.communicate() print(stdout + stderr)
+import subprocess process = subprocess.Popen(['ls' '-a'] stdout=subprocess.PIPE stderr=subprocess.PIPE) out err = process.communicate() print(out)
+"shell = subprocess.Popen(""/bin/bash -i"".split() stdin=subprocess.PIPEstdout=subprocess.PIPE stderr=subprocess.PIPE)pexpect "
+shell=True log = subprocess.Popen(mycmd stdin = subprocess.PIPE stdout = subprocess.PIPEstderr = subprocess.PIPE)
+"File ""pianobar_web.py"" line 67 in authenticate proc = subprocess.Popen(""pianobar"" stdin=subprocess.PIPE stdout=subprocess.PIPE stderr=subprocess.PIPE)"
+"p = subprocess.Popen(""bc"" stdin=subprocess.PIPE stdout=subprocess.PIPE stderr=subprocess.PIPE) out err = p.communicate('1+1\n')"
+muscle (out err) = subprocess.Popen(['muscle'] stdin=subprocess.PIPE stdout=subprocess.PIPE stderr=subprocess.PIPE).communicate(temp_align) print out
+import subprocess process = subprocess.Popen(['ls' '-a'] stdout=subprocess.PIPE stderr=subprocess.PIPE) out err = process.communicate() print(out)
+p = subprocess.Popen(cmd shell=True stdout=subprocess.PIPE stderr=subprocess.PIPE)communicate() stdout stderr 
+def run_command(command): p = subprocess.Popen(command shell=True stdout=subprocess.PIPE stderr=subprocess.STDOUT) return p.communicate()
+"proc = subprocess.Popen(""ls -z"" shell=True stdout=subprocess.PIPE stderr=subprocess.PIPE) out err = proc.communicate() assert proc.returncode == 0 'i am sad' print out print err"
+C:\&gt; subprocess.call([program file])p = subprocess.Popen([program file] stdout=subprocess.PIPE stderr=subprocess.PIPE) stdout stderr = p.communicate() print stdout
+"fdisk command = ['sudo' 'fdisk' '/dev/xvdm'] p = subprocess.Popen(command stdin=subprocess.PIPEstdout=subprocess.PIPEstderr=subprocess.PIPE) output err = p.communicate(b""o\nn\np\n1\n\n\nw"")"
+muscle (out err) = subprocess.Popen(['muscle'] stdin=subprocess.PIPE stdout=subprocess.PIPE stderr=subprocess.PIPE).communicate(temp_align) print out
+"fdisk command = ['sudo' 'fdisk' '/dev/xvdm'] p = subprocess.Popen(command stdin=subprocess.PIPEstdout=subprocess.PIPEstderr=subprocess.PIPE) output err = p.communicate(b""o\nn\np\n1\n\n\nw"")"
+def wrapper(*args): process = Popen(list(args) stdout=subprocess.PIPE stderr=subprocess.PIPE) stdout stderr = process.communicate() return stdout stderrstdout stderr process 
+"p = subprocess.Popen(""bc"" stdin=subprocess.PIPE stdout=subprocess.PIPE stderr=subprocess.PIPE) out err = p.communicate('1+1\n')"
+if cmd: proc = subprocess.Popen(cmd stdout=subprocess.PIPE stderr=subprocess.PIPE shell=True) result = proc.communicate()[0] print result
+def wrapper(*args): process = Popen(list(args) stdout=subprocess.PIPE stderr=subprocess.PIPE) stdout stderr = process.communicate() return stdout stderrstdout stderr process 
+"fdisk command = ['sudo' 'fdisk' '/dev/xvdm'] p = subprocess.Popen(command stdin=subprocess.PIPEstdout=subprocess.PIPEstderr=subprocess.PIPE) output err = p.communicate(b""o\nn\np\n1\n\n\nw"")"
+import subprocessp = subprocess.Popen(['a.out'] stdin=subprocess.PIPE) p.communicate('1 \n 3 \n 2 \n 5 \n 2...\n')import subprocess subprocess.call(['a.out'] stdin=file('a.inp'))
+p = Popen(['hg' 'verify' '-R' 'natrium-master' '-q'] stdout=PIPE stdin=PIPE) out err = p.communicate() print p.returncode
+"[""fastq_quality_trimmer"" ""-Q"" ""33"" ""-v"" ""-t"" ""50"" ""-l"" ""20"" ""-i"" leftInitial ""-o"" leftTrimmed]""33"" ""-v"" -Q 33-v -Q 33 -v &gt;&gt;&gt; ""33"" ""-v"" ('33' '-v') &gt;&gt;&gt; ""33"" ""-v"" '33-v'-v fastq_quality_trimmer args ['echo'] proc = subprocess.Popen(['echo'] + args stdout=subprocess.PIPE stderr=subprocess.PIPE) output err = proc.communicate() print(output)"
+stderr = subprocess.PIPE p = subprocess.Popen(...stderr = subprocess.PIPE) stdoutstderr = p.communicate() #p.stderr.read() could work too.Popen subprocess.call subprocess.Popen 
+def wrapper(*args): process = Popen(list(args) stdout=subprocess.PIPE stderr=subprocess.PIPE) stdout stderr = process.communicate() return stdout stderrstdout stderr process 
+subprocess import sys import subprocessfname = sys.argv[1] proc = subprocess.Popen(['sort' fname] stdout=subprocess.PIPE) stdout _ = proc.communicate() with open(fname 'w') as f: f.write(stdout)
+"command = [""somecommand"" test] subprocess.Popen(command stdout=subprocess.PIPE)test subprocess.Popen() "
+"cts_tradefed_script = ""./android-cts/tools/cts-tradefed"" process = subprocess.Popen([cts_tradefed_script + "" "" + serialno] shell=True stdout=subprocess.PIPE stderr=subprocess.STDOUT)"
+def subprocess_cmd(command): process = subprocess.Popen(commandstdout=subprocess.PIPE shell=True) proc_stdout = process.communicate()[0].strip() print proc_stdoutsubprocess_cmd('echo a; echo b')a b
+"proc =subprocess.Popen( [""python""path + ""/pythonChild.py""] preexec_fn=os.setsid stdout=subprocess.PIPE stdin=subprocess.PIPE) os.killpg( proc.pid 9 )"
+"subprocess.Popen .call Popen subprocess.PIPE stdin import subprocess proc = subprocess.Popen('shell command' stdin=subprocess.PIPE) proc.stdin.write(""my data"")"
+atexit import atexit devnull = open(os.devnull 'w') atexit.register(devnull.close) subprocess.Popen(args stdout=devnull)
+cmd = ['dmesg'] with open ('dmesg_log.txt' 'w') as out1: retun1 = subprocess.Popen(cmd shell = True stdout=out1)
+def run(self): if self.command is not None: self.process = Popen( self.command.split() shell=False stdout=PIPE stderr=PIPE)def stop(self): if self.process is not None: self.process.terminate()
+"dir cmd.exe powershell.exe subprocess.Popen([""cmd"" ""/c"" ""dir"" ""c:\\Users""] stdout=subprocess.PIPE)C:\&gt;cmd /c dir c:\Userscmd c:\\Windows\\System32\\cmd.exe "
+"p = subprocess.Popen(""bc"" stdin=subprocess.PIPE stdout=subprocess.PIPE stderr=subprocess.PIPE) out err = p.communicate('1+1\n')"
+Popen with patch('subprocess.Popen' mock_popen):Popen from subprocess import Popen PIPEwith patch('myapp.mymodule.Popen' mock_popen):
+"subprocess.call() subprocess.call() wait() wait() communicate() p = subprocess.Popen( [""scanx"" ""--udp"" host] stdin=subprocess.PIPE stdout=subprocess.PIPE stderr=subprocess.PIPE) out err = p.communicate()"
+subprocess.call() subprocess.Popen() subprocess.Popen() time.sleep(0.5) 
+subprocess.Popen stdout subprocess.check_output([arg0 arg1 ...] encoding='utf-8')stderr=subprocess.STDOUT subprocess.check_output 
+"subprocess.Popen([""/bin/ls"" ""-l""]subprocess.call subprocess.call_check "
+"TypeError subprocess.Popen(""python"" ""Desktop/gold/gold.py"") subprocess.Popen(""python Desktop/gold/gold.py"")args subprocess.Popen(""python Desktop/gold/gold.py"" shell = True)"
+"#include &lt;stdio.h&gt;void adx_store_data(const char *filepath const char *data) { FILE *fp = fopen(filepath ""ab""); if (fp != NULL) { fputs(data fp); fclose(fp); } }"
+"#include &lt;stdio.h&gt;void adx_store_data(const char *filepath const char *data) { FILE *fp = fopen(filepath ""ab""); if (fp != NULL) { fputs(data fp); fclose(fp); } }"
+"char path[strlen(dictionary) + 3]; strcat(path ""./"");path strcat strcpy char path[strlen(dictionary) + 3]; strcpy(path ""./"");fopen() errno perror() "
+"entry-&gt;d_name char fullname[1024]; strcpy(fullnames); strcat(fullname""\\""); strcat(fullnameentry-&gt;d_name); ff = fopen(fullname ""r"");"
+"errno perror errno fopen NULL perror FILE *fd = fopen(""nothing"" ""r""); if (fd == NULL) { perror(""fopen failed""); }"
+"fopen() in_fp = fopen(SOURCE_CODE ""r""); if(in_fp == NULL) { perror(""Failed to open the source""); return EXIT_FAILURE; }"
+"s char s[100];char *s;fopen in = fopen(""input"" ""r""); if (in == NULL) { printf(""Can't open file\n""); exit(1); }"
+"char filepath1[SIZE] = {0};scanf(""%s"" filepath1);FILE * fdw = fopen(filepath1 ""a"");"
+"sprintf(cmdBuf ""ping -c5 -W1 %s &gt;&gt; %s"" dst_addr FILE_NAME ); fp = fopen(FILE_NAME ""w""); fprintf(fp""ping -c5 -W1 %s\n"" dst_addr); fclose(fp); doSystem(cmdBuf);"
+"fopen fopen(path ""r"") fopen(path ""r+"") path bool isDirectory(const char* path) { FILE *f = fopen(path ""r+""); if (f) { fclose(f); return false; } return errno == EISDIR; }"
+"long long filesize(const char *fname) {int ch;FILE *fp;long long answer = 0;fp = fopen(fname ""rb"");if(!fp)return -1;while( (ch = fgetc(fp)) != EOF) answer++;fclose(fp);return answer; }"
+"char filepath1[SIZE] = {0};scanf(""%s"" filepath1);FILE * fdw = fopen(filepath1 ""a"");"
+"long long filesize(const char *fname) {int ch;FILE *fp;long long answer = 0;fp = fopen(fname ""rb"");if(!fp)return -1;while( (ch = fgetc(fp)) != EOF) answer++;fclose(fp);return answer; }"
+"""r+"" ""a+"" b #include &lt;stdlib.h&gt; #include &lt;stdio.h&gt;int main(void){ FILE *fp = fopen(""file.txt"" ""r+""); fseek(fp 10 SEEK_SET); fwrite(""ABCD"" 1 4 fp); fclose(fp);return 0; }"
+catch FILE *safe_fopen(char const *path char const *mode) { FILE *f = std::fopen(path mode); if (f == NULL) throw std::runtime_error(std::strerror(errno)); return f; }
+void nullCheck(FILE* checkVar){ if(checkVar==NULL){ } }int readFile(char* _name char* storeArray) { FILE* fp; fp=fopen(_nameREAD_ONLY_MODE); nullCheck(fp); return -1; return 1; }
+"fopen(""/proc/cpuinfo | grep 'model name' "" ""r""); /proc/cpuinfo | grep 'model name' FILE * fp = popen(""grep 'model name'/proc/cpuinfo"" ""r"");if (fp != NULL) { ...read inpclose(fp); }"
+"""/path/to/myfiles/program1.ijvm"" fopen \\Open read-only fp = fopen(binary ""rb""); if(fp==NULL){ perror(""problem opening the file""); exit(EXIT_FAILURE); } "
+flockfp = fopen(fileName fileMode);if (fp != NULL) {flock(fileno(fp) LOCK_EX);...fclose(fp); fp = NULL;}
+"perror() fopen() errno == 0 Success fopen() NULL if (fopen(""."") == NULL) { printf(""main: %s \n"" strerror(errno)); }. . perror() "
+"CR NL 0x0D 0x0A NL 0x0A FILE *input_file = fopen(filename ""r"");FILE *input_file = fopen(filename ""rb"");fread() CR NL NL NL CR NL ftell() "
+" char filename[2000];for (int i = 0; i &lt; 10; ++i) { snprintf(filename sizeof(filename) ""Desktop\\filename\\data_%d"" i); FILE *f = fopen(filename ""w""); if (f != NULL) {fclose(f); }}"
+"int main(int argc char *argv[]) { FILE *fp;if (argc != 2){ printf(""Usage: %s &lt;filename&gt;\n"" argv[0]); return 1; }fp = fopen(argv[1] ""r"");// the rest of your program...return 0; }"
+"open FILE * fopen fp = fopen(""/dev/urandom"" ""r"");(void *) test.txt /dev/urandom creat() open(2) "
+"FILE *fp1 *fp2;fp1 = fopen(""file"" ""r""); fp2 = fopen(""file"" ""r"");fp1 fp2 "
+"if ( file=fopen(filename ""r"") == NULL )if ( (file=fopen(filename ""r"")) == NULL )file = 0 file = 1 "
+"FILE* fd = fopen(""fooo.txt""""w"");fwrite(tempString 1 256 fd);fread(tempString1256 fd)"
+"\r\n \n \r \r \r \n fopen(filename ""r"") fopen(filename ""rb"") "
+"fflush(fp) fprintf(fp ...) setvbuf fp = fopen(FILE_NAME ""w+""); setvbuf(fp NULL _IOLBF BUFSIZ);tail -f &lt;logfile&gt; "
+"int fputc(int FILE*) fp = fopen(""filename"" ""wb+""); fwrite(buffer 4 1 fp);int fprintf(FILE* format ....); "
+"FILE *file = fopen(filename ""r"") fgets(line 100 file) free() fgets() char filename[] FILE* fopen() "
+"while ((o = getopt(argc argv ""w::"")) != -1) { switch (o) { case 'w' : if (optarg) { w = atoi(optarg); } break;: : optarg NULL "
+"while ((o = getopt(argc argv ""w::"")) != -1) { switch (o) { case 'w' : if (optarg) { w = atoi(optarg); } break;: : optarg NULL "
+int c(char **args) {int steps = atoi(args[1]); }atoi 
+atoi() int frstNumb = atoi(argv[1]); int scndNumb = atoi(argv[2]);atoi() 
+argv char * *argv argv[0] argv[1] atoi if(argc != 2) { //print usage return 0; }int key = atoi(argv[1]);strtol atoi 
+float dt = atoi(args[2])/1000; float dt = atoi(args[2])/1000.0f; 
+int c(char **args) {int steps = atoi(args[1]); }atoi 
+argv char * *argv argv[0] argv[1] atoi if(argc != 2) { //print usage return 0; }int key = atoi(argv[1]);strtol atoi 
+if (atoi(argv[i]) &gt; atoi(argv [1])) { /* pass value of argument(s) to array named arr */ arr[j] = atoi(argv[i]); j++; } 
+"int numbers[50]; int i = 0;while(i+1 &lt; argc) { numbers[i] = atoi(argv[i+1]);printf("" %d "" numbers[i]); i++; }argc "
